@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="projectJava2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/projectJava2_jar</output-path>
+    <root id="archive" name="projectJava2.jar">
+      <element id="module-output" name="projectJava2" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/projectJava2/jars/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/projectJava2/jars/jaudiotagger-2.0.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
